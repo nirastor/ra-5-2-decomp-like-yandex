@@ -1,0 +1,10 @@
+.banner-link {
+  display: inline-block;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+
+.banner-img {
+  width: 700px;
+  height: 107px;
+}

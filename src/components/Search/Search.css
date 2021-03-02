@@ -1,0 +1,39 @@
+.search-widget {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.search-logo {
+  position: absolute;
+  width: 140px;
+  height: 100px;
+  top: 0;
+  left: -140px;
+}
+
+.search-menu {
+  margin-bottom: 12px;
+}
+
+.search-item {
+  margin-right: 24px;
+}
+
+.search-input {
+  display: block;
+  width: 80%;
+  height: 36px;
+}
+
+.search-button {
+  height: 36px;
+  width: 92px;
+  line-height: 36px;
+  font-size: 18px;
+}
+
+.search-row {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
